@@ -9,6 +9,7 @@
 3. Given the following database table, write the result that the following SQL would return (Example http://sqlfiddle.com/#!17/f95cb/4/0)
 
 table: `vegetables`
+
 |id|name|description|created_at|
 |---|---|---|---|
 |1|Apple|apple|the round fruit of a tree of the rose family, which typically has thin red or green skin and crisp flesh. Many varieties have been developed as dessert or cooking fruit or for making cider.|2018-12-01 19:39:53.442867|
